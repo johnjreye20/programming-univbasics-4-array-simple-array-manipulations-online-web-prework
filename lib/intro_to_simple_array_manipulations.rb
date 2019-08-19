@@ -29,7 +29,8 @@ baseball_things6.uniq
 elton = [["Benny"], ["and the Jets"]]
 elton.flatten
 
-
+football_things = ["TD", "INT", "COMP"]
+football_things.delete("COMP")
 
 
 
