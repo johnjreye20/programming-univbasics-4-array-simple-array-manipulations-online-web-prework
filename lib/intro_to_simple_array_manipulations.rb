@@ -1,5 +1,5 @@
 kick_push = ["Left", "Right"]
-kick_push.push("Up")
+kick_push << "Up"
 
 
 using_unshift = ["Array", "String"]
