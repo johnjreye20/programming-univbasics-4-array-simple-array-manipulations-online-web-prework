@@ -17,3 +17,4 @@ baseball_things3.shift
 baseball_things4 ["1B", "2B", "3B"]
 baseball_things4.shift(2)
 
+summer_days = ["June", "July", "August"]
