@@ -20,5 +20,5 @@ summer_days = ["June", "July", "August"]
 winter_days = ["Dec", "Jan", "Feb"]
 ["June", "July", "August"].concat( ["Dec", "Jan", "Feb"] )
 
-baseball_things5 ["W", "L", "ERA"]
+baseball_things5 = ["W", "L", "ERA"]
 baseball_things5.insert("WHIP")
