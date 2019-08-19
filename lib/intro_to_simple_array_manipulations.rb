@@ -32,5 +32,8 @@ elton.flatten
 football_things = ["TD", "INT", "COMP"]
 football_things.delete("COMP")
 
+football_things2 = ["AFC", "NFC", "AFL"]
+football_things2.delete
+
 
 
