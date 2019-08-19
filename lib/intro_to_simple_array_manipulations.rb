@@ -8,3 +8,5 @@ using_unshift.unshift("Method")
 baseball_things = ["Ball", "Strike", "Walk"]
 baseball_things.pop
 
+baseball_things2 = ["HR", "K", "RISP"]
+baseball_things2.pop(2)
