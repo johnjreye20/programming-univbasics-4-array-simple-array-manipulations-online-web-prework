@@ -22,3 +22,6 @@ winter_days = ["Dec", "Jan", "Feb"]
 
 baseball_things5 = ["W", "L", "ERA"]
 baseball_things5.insert(2, "WHIP")
+
+baseball_things6 = ["SB","SB", "CS", "SBPCT"]
+baseball_things6.uniq
