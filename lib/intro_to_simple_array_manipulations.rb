@@ -28,3 +28,8 @@ baseball_things6.uniq
 
 elton = [["Benny"], ["and the Jets"]]
 elton.flatten
+
+
+
+
+
