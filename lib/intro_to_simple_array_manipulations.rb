@@ -14,5 +14,5 @@ baseball_things2.pop(2)
 baseball_things3 = ["1B", "2B", "3B"]
 baseball_things3.shift
 
-baseball_things3 ["1B", "2B", "3B"]
-baseball_things3.shift(2)
+baseball_things4 ["1B", "2B", "3B"]
+baseball_things4.shift(2)
