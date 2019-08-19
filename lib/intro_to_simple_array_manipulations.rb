@@ -19,3 +19,5 @@ baseball_things4.shift(2)
 
 summer_days = ["June", "July", "August"]
 winter_days = ["Dec", "Jan", "Feb"]
+["June", "July", "August"].concat( ["Dec", "Jan", "Feb"] )
+
